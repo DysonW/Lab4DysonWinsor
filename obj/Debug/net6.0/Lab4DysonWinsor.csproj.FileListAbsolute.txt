@@ -1,0 +1,15 @@
+C:\Users\dyson\cs1400\labstuff\lab4\Lab4DysonWinsor\obj\Debug\net6.0\Lab4DysonWinsor.csproj.AssemblyReference.cache
+C:\Users\dyson\cs1400\labstuff\lab4\Lab4DysonWinsor\obj\Debug\net6.0\Lab4DysonWinsor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dyson\cs1400\labstuff\lab4\Lab4DysonWinsor\obj\Debug\net6.0\Lab4DysonWinsor.AssemblyInfoInputs.cache
+C:\Users\dyson\cs1400\labstuff\lab4\Lab4DysonWinsor\obj\Debug\net6.0\Lab4DysonWinsor.AssemblyInfo.cs
+C:\Users\dyson\cs1400\labstuff\lab4\Lab4DysonWinsor\obj\Debug\net6.0\Lab4DysonWinsor.csproj.CoreCompileInputs.cache
+C:\Users\dyson\cs1400\labstuff\lab4\Lab4DysonWinsor\bin\Debug\net6.0\Lab4DysonWinsor.exe
+C:\Users\dyson\cs1400\labstuff\lab4\Lab4DysonWinsor\bin\Debug\net6.0\Lab4DysonWinsor.deps.json
+C:\Users\dyson\cs1400\labstuff\lab4\Lab4DysonWinsor\bin\Debug\net6.0\Lab4DysonWinsor.runtimeconfig.json
+C:\Users\dyson\cs1400\labstuff\lab4\Lab4DysonWinsor\bin\Debug\net6.0\Lab4DysonWinsor.dll
+C:\Users\dyson\cs1400\labstuff\lab4\Lab4DysonWinsor\bin\Debug\net6.0\Lab4DysonWinsor.pdb
+C:\Users\dyson\cs1400\labstuff\lab4\Lab4DysonWinsor\obj\Debug\net6.0\Lab4DysonWinsor.dll
+C:\Users\dyson\cs1400\labstuff\lab4\Lab4DysonWinsor\obj\Debug\net6.0\refint\Lab4DysonWinsor.dll
+C:\Users\dyson\cs1400\labstuff\lab4\Lab4DysonWinsor\obj\Debug\net6.0\Lab4DysonWinsor.pdb
+C:\Users\dyson\cs1400\labstuff\lab4\Lab4DysonWinsor\obj\Debug\net6.0\Lab4DysonWinsor.genruntimeconfig.cache
+C:\Users\dyson\cs1400\labstuff\lab4\Lab4DysonWinsor\obj\Debug\net6.0\ref\Lab4DysonWinsor.dll
